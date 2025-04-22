@@ -89,4 +89,5 @@ plt.show()
 # Results
 The modulation and demodulation of FSK using python are verified
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-04-22 at 12 49 02_adfe57d2](https://github.com/user-attachments/assets/cae98dd4-8aa3-4883-bc0b-7fa41d4fae5e)
 
